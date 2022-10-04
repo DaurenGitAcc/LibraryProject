@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit</title>
+</head>
+<body>
+<form th:method="PATCH" th:action="@{/people/{id}(id=${person.getId()})}" th:object="${person}">
+    <label for="name">Введите ФИО: </label>
+    <input type="text" id="name" th:field="*{name}" th:value="${person.getName()}">
+    <div style="color: red" th:if="${#fields.hasAnyErrors()!=null}" th:errors="*{name}">Ошибка имени</div>
+    <br/>
+    <label for="year">Введите год рождения: </label>
+    <input type="text" id="year" th:field="*{yearOfBirth}" th:value="${person.getYearOfBirth()}">
+    <div style="color: red" th:if="${#fields.hasAnyErrors()!=null}" th:errors="*{yearOfBirth}">Ошибка данных о годе рождения</div>
+
+    <br/>
+    <input type="submit" value="Редактировать">
+</form>
+</body>
+</html>
