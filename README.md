@@ -24,13 +24,13 @@
 
 
 
-[project-screenshot1]: images/project-screenshot1.png
-[project-screenshot2]: images/project-screenshot2.png
-[project-screenshot3]: images/project-screenshot3.png
-[project-screenshot4]: images/project-screenshot4.png
-[project-screenshot5]: images/project-screenshot5.png
-[project-screenshot6]: images/project-screenshot6.png
-[project-screenshot7]: images/project-screenshot7.png
+[project-screenshot1]: images/project-screenshot1.PNG
+[project-screenshot2]: images/project-screenshot2.PNG
+[project-screenshot3]: images/project-screenshot3.PNG
+[project-screenshot4]: images/project-screenshot4.PNG
+[project-screenshot5]: images/project-screenshot5.PNG
+[project-screenshot6]: images/project-screenshot6.PNG
+[project-screenshot7]: images/project-screenshot7.PNG
 
 [Java.js]: https://img.shields.io/badge/Java-%20-orange
 [Java-url]: https://www.java.com/
