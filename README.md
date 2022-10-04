@@ -5,14 +5,36 @@
 
 Реализация веб-приложения для библиотеки. Библиотекари имеют возможность регистрировать читателей, выдавать им книги и освобождать книги (после того, как читатель возвращает книгу обратно в библиотеку).
 
-[![Product Screen Shot 1][project-screenshot1]](https://example.com)
-[![Product Screen Shot 2][project-screenshot2]](https://example.com)
-[![Product Screen Shot 3][project-screenshot3]](https://example.com)
-[![Product Screen Shot 4][project-screenshot4]](https://example.com)
-[![Product Screen Shot 5][project-screenshot5]](https://example.com)
-[![Product Screen Shot 6][project-screenshot6]](https://example.com)
-[![Product Screen Shot 7][project-screenshot7]](https://example.com)
 
+
+**Страница со списком всех людей**
+
+[![Product Screen Shot 1][project-screenshot1]](https://example.com)
+---
+**Страница со списком всех книг**
+
+[![Product Screen Shot 2][project-screenshot2]](https://example.com)
+---
+**Страница данных о человеке**
+
+[![Product Screen Shot 3][project-screenshot3]](https://example.com)
+---
+**Страница изменения данных о человеке**
+
+[![Product Screen Shot 4][project-screenshot4]](https://example.com)
+---
+**Страница о данных книги**
+
+[![Product Screen Shot 5][project-screenshot5]](https://example.com)
+---
+**Страница о данных книги**
+
+[![Product Screen Shot 6][project-screenshot6]](https://example.com)
+---
+**Страница данных о человеке**
+
+[![Product Screen Shot 7][project-screenshot7]](https://example.com)
+---
 
 ### Использовано
 
